@@ -1,4 +1,13 @@
-Bibliothèque Symfony
+# Bibliothèque Symfony
+
+## Exercice à rendre pour validation d'ECF pop school
+
+### Pour lancer le projet dans le navigateur :
+
+* symfony server:start
+* dans le navigateur localhost:8000
+
+### Cahier des charges
 
 Le client veut un site de bibliothèque en ligne.
 Côté front
@@ -10,10 +19,10 @@ Côté front
 
 Côté back
 
-    un CRUD pour les livres
-    un CRUD pour les emprunteurs
-    un CRUD pour les emprunts
-    un CRUD pour les users
+    * un CRUD pour les livres
+    * un CRUD pour les emprunteurs
+    * un CRUD pour les emprunts
+    * un CRUD pour les users
 
 Le front est accessible à tout le monde. Le back n'est accessible qu'aux bibliothécaires. Les bibliothécaires peuvent utiliser un formulaire pour s'authentifier.
 Entités
@@ -51,7 +60,7 @@ Paramètre
 
     durée de l'emprunt
     nombre de livres empruntables pour une personne par emprunt
-    le montant des amendes de retard
+    le montant des amendes de retard  
 
 User (le bibliothécaire)
 
