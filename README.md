@@ -5,7 +5,7 @@
 ### Pour lancer le projet dans le navigateur :
 
 * symfony server:start
-* dans le navigateur localhost:8000
+* dans le navigateur localhost:8000 (exemple http://localhost:8000/book ou http://localhost:8000/user) 
 
 ### Cahier des charges
 
