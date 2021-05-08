@@ -4,6 +4,7 @@
 
 ### Pour lancer le projet dans le navigateur :
 
+* installer symfony et composer
 * symfony server:start
 * dans le navigateur localhost:8000 (exemple http://localhost:8000/book ou http://localhost:8000/user) 
 
